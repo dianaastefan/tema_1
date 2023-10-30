@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 80px;
+    gap: 40px;
+   
+    background: #F3F3FB;
+
+
+
+}
